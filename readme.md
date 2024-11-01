@@ -1,3 +1,4 @@
-## Hello, Git!
+## Heyoo everyone, welcome to my Git guide!
 
-- I'm adding this form `feature-branch`
+- Yo, Johnny here!
+- I'm adding this from `feature-branch`
